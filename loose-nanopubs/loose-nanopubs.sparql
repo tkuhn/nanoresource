@@ -1,0 +1,9 @@
+PREFIX : <http://www.nextprot.org/nanopubs#>
+prefix np: <http://www.nanopub.org/nschema#>
+prefix npx: <http://purl.org/nanopub/x/>
+
+select distinct ?np where {
+  ?np a np:Nanopublication .
+  filter not exists { ?npi npx:includesElement ?np . }
+  filter not exists { ?np a npx:NanopubIndex . }
+}

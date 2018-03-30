@@ -1,4 +1,9 @@
 np,title,date,appends,subindex_count
+http://purl.org/np/RAbyBsPKDTg5OGzkHuk4GM47PQxb4uOtRluFpSaXZn-Rw,Drug data extracted from Drugbank via Bio2RDF,2018-03-30T11:35:56.859+02:00,,5
+http://purl.org/np/RAK_mkjiDrgvlttNWZHgBcRrpepiAiRgVBopYcKUZqUN4,Drug target relations extracted from Drugbank via Bio2RDF,2018-03-30T11:32:30.402+02:00,http://purl.org/np/RAJst-n-XTRNscBhLtlJau0Z3oD7mGfj8WcBOSG1EpzYg,0
+http://purl.org/np/RAZUFR72KsiOtMWlxTSyGnZzQZylkBItGXDVe0ADmHUOs,Drug target data extracted from Drugbank via Bio2RDF,2018-03-30T11:32:20.211+02:00,http://purl.org/np/RAmn9j1Pe56bcxWIq79gOyf197sfXdcdT39Wy3LZuJkME,0
+http://purl.org/np/RAMYp-s7FxlewSUzyh2LLSQbXnjngkuNXCjlIkDe5h0TY,Food interaction data for drugs extracted from Drugbank via Bio2RDF,2018-03-30T11:32:15.927+02:00,,0
+http://purl.org/np/RAD3LTE5gKujkUmYPfY0yhxZHeYW5kwpF_f3YBxYoB7AA,Core drug data extracted from Drugbank via Bio2RDF,2018-03-30T11:32:06.591+02:00,http://purl.org/np/RAmKK_UI3lpslpCyQN71lWa0s-lDHOPE_65MktVI_SFNo,0
 http://purl.org/np/RAxem_NvV-uMTtUXUePxcdib0xw90bT1TExLJQp-Z7cgA,"Nanopublications extracted from WikiPathways, incremental dataset, 20180310",2018-03-30T09:02:02.202+02:00,,3
 http://purl.org/np/RAMjL9sevrzITxZdeB_tUqfRABp5PlTYhdiNcq_kKz440,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20180310,2018-03-30T09:02:01.844+02:00,http://purl.org/np/RAScMf3aQq4m8LOQHzU4CwQKfT77AFPdM1IzUmhQxSgb8,0
 http://purl.org/np/RA4pAKrybhUh4Y6qazLEitSZ7rXqcxUrGVezfmT4yhIdQ,Nanopubs covering interactions extracted from WikiPathways version 20180310,2018-03-30T09:01:48.198+02:00,http://purl.org/np/RApvDrVzQi3SVkxQti1Gue1tXa5JB8bCjDM7AMThNdQ4E,0

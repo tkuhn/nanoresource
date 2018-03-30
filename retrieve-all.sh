@@ -6,6 +6,6 @@
     cat dataset-codes.txt \
     | awk '{ print "echo Processing "$0"\n./retrieve-dataset.sh "$0 }'
   );
-  echo "Finished"
+  echo "echo Finished"
 ) \
   | bash

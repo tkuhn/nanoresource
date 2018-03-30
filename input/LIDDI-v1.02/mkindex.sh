@@ -6,6 +6,5 @@ np mkindex \
   -d "This dataset combines data on drug-drug interactions from different sources, and formats them as nanopublications. For details see: Banda et al. Provenance-Centered Dataset of Drug-Drug Interactions. In Proceedings of ISWC 2015, Springer." \
   -a http://liddi.stanford.edu \
   -c 0000-0001-8499-824X \
-  -l https://creativecommons.org/licenses/by-nc/4.0/ \
   files/trusty.LIDDIv1.02.trig.gz
 

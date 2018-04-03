@@ -1,4 +1,6 @@
 PREFIX npx: <http://purl.org/nanopub/x/>
+PREFIX c: <http://rdf.ebi.ac.uk/chembl/>
+PREFIX dc: <http://purl.org/dc/terms/>
 prefix np: <http://www.nanopub.org/nschema#>
 prefix dct: <http://purl.org/dc/terms/>
 
@@ -8,6 +10,6 @@ select (count(distinct ?np) as ?c) ?l where {
     ?np np:hasPublicationInfo ?i .
   }
   graph ?i {
-    ?np dct:license ?l .
+        ?np (dct:license|dct:rights) ?l .
   }
 } group by ?l order by ?c

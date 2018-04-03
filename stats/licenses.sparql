@@ -4,12 +4,12 @@ PREFIX dc: <http://purl.org/dc/terms/>
 prefix np: <http://www.nanopub.org/nschema#>
 prefix dct: <http://purl.org/dc/terms/>
 
-select (count(distinct ?np) as ?c) ?l where {
+select (count(distinct ?np) as ?count) ?license where {
   graph ?h {
     ?np a np:Nanopublication .
     ?np np:hasPublicationInfo ?i .
   }
   graph ?i {
-        ?np (dct:license|dct:rights) ?l .
+        ?np (dct:license|dct:rights) ?license .
   }
-} group by ?l order by ?c
+} group by ?license order by ?count

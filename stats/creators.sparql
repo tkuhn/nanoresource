@@ -7,12 +7,12 @@ prefix pav1: <http://swan.mindinformatics.org/ontologies/1.2/pav/>
 prefix pav2: <http://purl.org/pav/2.0/>
 prefix prov: <http://www.w3.org/ns/prov#>
 
-select (count(distinct ?np) as ?c) ?cr where {
+select (count(distinct ?np) as ?count) ?creator where {
   graph ?h {
     ?np a np:Nanopublication .
     ?np np:hasPublicationInfo ?i .
   }
   graph ?i {
-        ?np (dct:creator|dce:creator|pav:createdBy|pav1:createdBy|pav2:createdBy|pav:authoredBy|pav1:authoredBy|pav2:authoredBy|prov:wasAttributedTo) ?cr .
+        ?np (dct:creator|dce:creator|pav:createdBy|pav1:createdBy|pav2:createdBy|pav:authoredBy|pav1:authoredBy|pav2:authoredBy|prov:wasAttributedTo) ?creator .
   }
-} group by ?cr order by ?c
+} group by ?creator order by ?count

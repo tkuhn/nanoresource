@@ -1,0 +1,123 @@
+np,title,date,appends,subindex_count
+http://purl.org/np/RAM-2ntLXzb2WY1VM_gTrVQDydc6cSVG0fMgB26HmIhnU,Linked Drug-Drug Interactions (LIDDI) dataset v1.02,2018-03-30T16:18:23.447+02:00,http://purl.org/np/RAFWabNamUmb7ShXLO63LDKDWa2TnlujHH8rOT-OIPJ24,0
+http://purl.org/np/RAbyBsPKDTg5OGzkHuk4GM47PQxb4uOtRluFpSaXZn-Rw,Drug data extracted from Drugbank via Bio2RDF,2018-03-30T11:35:56.859+02:00,,5
+http://purl.org/np/RAK_mkjiDrgvlttNWZHgBcRrpepiAiRgVBopYcKUZqUN4,Drug target relations extracted from Drugbank via Bio2RDF,2018-03-30T11:32:30.402+02:00,http://purl.org/np/RAJst-n-XTRNscBhLtlJau0Z3oD7mGfj8WcBOSG1EpzYg,0
+http://purl.org/np/RAZUFR72KsiOtMWlxTSyGnZzQZylkBItGXDVe0ADmHUOs,Drug target data extracted from Drugbank via Bio2RDF,2018-03-30T11:32:20.211+02:00,http://purl.org/np/RAmn9j1Pe56bcxWIq79gOyf197sfXdcdT39Wy3LZuJkME,0
+http://purl.org/np/RAMYp-s7FxlewSUzyh2LLSQbXnjngkuNXCjlIkDe5h0TY,Food interaction data for drugs extracted from Drugbank via Bio2RDF,2018-03-30T11:32:15.927+02:00,,0
+http://purl.org/np/RAUgzHCC5Z0uH8v89Bddd9NMdTn7ctK7vZHpOve7YPaG4,Drug-drug interaction data extracted from Drugbank via Bio2RDF,2018-03-30T11:32:14.999+02:00,http://purl.org/np/RAG1KgcXkZV1oNM0xGn28Ki-WiOo_R47whIOLgnd6Blzg,0
+http://purl.org/np/RAD3LTE5gKujkUmYPfY0yhxZHeYW5kwpF_f3YBxYoB7AA,Core drug data extracted from Drugbank via Bio2RDF,2018-03-30T11:32:06.591+02:00,http://purl.org/np/RAmKK_UI3lpslpCyQN71lWa0s-lDHOPE_65MktVI_SFNo,0
+http://purl.org/np/RAxem_NvV-uMTtUXUePxcdib0xw90bT1TExLJQp-Z7cgA,"Nanopublications extracted from WikiPathways, incremental dataset, 20180310",2018-03-30T09:02:02.202+02:00,,3
+http://purl.org/np/RAMjL9sevrzITxZdeB_tUqfRABp5PlTYhdiNcq_kKz440,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20180310,2018-03-30T09:02:01.844+02:00,http://purl.org/np/RAScMf3aQq4m8LOQHzU4CwQKfT77AFPdM1IzUmhQxSgb8,0
+http://purl.org/np/RA4pAKrybhUh4Y6qazLEitSZ7rXqcxUrGVezfmT4yhIdQ,Nanopubs covering interactions extracted from WikiPathways version 20180310,2018-03-30T09:01:48.198+02:00,http://purl.org/np/RApvDrVzQi3SVkxQti1Gue1tXa5JB8bCjDM7AMThNdQ4E,0
+http://purl.org/np/RA1AMnSjbML9T4WDOsTZu5UDhD7Mr8ExIvztGd4Y4uJfk,Nanopubs covering complexes extracted from WikiPathways version 20180310,2018-03-30T09:01:27.330+02:00,,0
+http://purl.org/np/RAkIUxPxzVhUMNZ8up0ivmR3th6-qhFvf7LX6oJM78xws,"Nanopublications extracted from WikiPathways, incremental dataset, 20180210",2018-03-30T08:59:37.838+02:00,,3
+http://purl.org/np/RAt5TYmiahHGyJ3DOC1-Ys95tGb2Yn4EYwXDuNSpZ5Lqw,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20180210,2018-03-30T08:59:37.195+02:00,http://purl.org/np/RAVqvyNrgyKVp7auLL703bWfuNyh2-ublRdhD3nG7eNbE,0
+http://purl.org/np/RAje8Xo6w9QRPOzaLLaOHvCPFT7frFf3WlJBZY9oui0_I,Nanopubs covering interactions extracted from WikiPathways version 20180210,2018-03-30T08:59:23.792+02:00,http://purl.org/np/RAzSVPE1vwdk9v-pOpBCf2aEtbKtd2LjmoCtFO6NN3GUw,0
+http://purl.org/np/RAMBAEXMXBFUJSO8jVsYdhqmys2VU-oqlMcxiJTzFrv8w,Nanopubs covering complexes extracted from WikiPathways version 20180210,2018-03-30T08:59:02.557+02:00,,0
+http://purl.org/np/RA_AWcwm57iWtR5GbfhFAV2L2xsGMid8usbrtE-2h7Rzk,"Nanopublications extracted from WikiPathways, incremental dataset, 20180110",2018-03-30T08:57:30.074+02:00,,3
+http://purl.org/np/RAtx2TuK8OQBpdA0s4N0vbQtn7EnR5SJ9wHnqeCwiS66c,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20180110,2018-03-30T08:57:29.752+02:00,http://purl.org/np/RA0fCJ4VUx9ztWOS0vJqqTCHabp0ZgpkKu4kJFJkQOpbA,0
+http://purl.org/np/RAviMsz7k0GorXIUUpz_70L1PjlXYYSugmQLOhL7I4_2w,Nanopubs covering interactions extracted from WikiPathways version 20180110,2018-03-30T08:57:17.703+02:00,http://purl.org/np/RA2qd2vaVKVaxnf0e5I1sZ4fBMQ_-bsGdxFzpLRACoM5s,0
+http://purl.org/np/RANZaA3Io8uQjnyqmiIWuazXFdugH_hwbB2N5_LuF8bsY,Nanopubs covering complexes extracted from WikiPathways version 20180110,2018-03-30T08:56:56.916+02:00,,0
+http://purl.org/np/RA6QNVGZTuDN0g-zEKm02oLlqPO9JVz6cA4J760Bs0Zc4,"Nanopublications extracted from WikiPathways, incremental dataset, 20171210",2017-12-18T09:44:46.088+01:00,,3
+http://purl.org/np/RAjiRqNKwIGPRUinw1kgAr5_hLaTrnJqqWLMO1lMfpzYA,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20171210,2017-12-18T09:44:45.799+01:00,http://purl.org/np/RAW7DoUxhMyoitLfeKLp2AaS_YjoN2l0ALzJxrrg6ENsc,0
+http://purl.org/np/RAvqkqpEDxgu_CAx00IZSc8MYQqizkQaL4TsB72ThOCqQ,Nanopubs covering interactions extracted from WikiPathways version 20171210,2017-12-18T09:44:35.449+01:00,http://purl.org/np/RA6sukAKArG4DST7-YhQs05qZjEsazsP0fET5KMKPp2eU,0
+http://purl.org/np/RAaeLg9HD-3KD_lG6iJwHXhH_nGQ-1o3DCZRRmzDY-at8,Nanopubs covering complexes extracted from WikiPathways version 20171210,2017-12-18T09:44:18.657+01:00,,0
+http://purl.org/np/RA02JkPYQWNKYOl1rFM-bAoW34J--0-WMabwzAiYUfs7E,"Nanopublications extracted from WikiPathways, incremental dataset, 20171116",2017-12-18T09:37:40.509+01:00,,3
+http://purl.org/np/RA9PgElv4BBEaEFSBrrs_cNlpM6C00kanqjiZKYqHtdLg,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20171116,2017-12-18T09:37:40.233+01:00,http://purl.org/np/RAIKCzJrg5JT6WBbjqgXDUgqQkHMv2kfg-9F4KGUQwDd4,0
+http://purl.org/np/RAEPIhZ2sqkfW2bksN7HGCnPsc-2c5Dl0i0hZijTHbO_I,Nanopubs covering interactions extracted from WikiPathways version 20171116,2017-12-18T09:37:30.159+01:00,http://purl.org/np/RALnwc9Hx5mDSFLkjyMmLGLr_FjyAPeMXRMH9M6yN0S74,0
+http://purl.org/np/RAmV1dLULcQ1Y0XJ2a4XU8Um1seA_W6OLzM7F50qj5YQ4,Nanopubs covering complexes extracted from WikiPathways version 20171116,2017-12-18T09:37:13.161+01:00,,0
+http://purl.org/np/RATKvfPRl_biwB4p-35enMzZ-ssqEMWEJLIV2PA8ql-HY,"Nanopublications extracted from WikiPathways, incremental dataset, 20171010",2017-12-18T09:35:22.449+01:00,,3
+http://purl.org/np/RAOPQkxpfN6Q0x1c9rPG4YE1qQpra823ANMdl9Cw3P4Cc,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20171010,2017-12-18T09:35:22.166+01:00,http://purl.org/np/RAU7rnABtf3yXLgL79HaRxUdYrA8_iwRKqir8O7_brz5s,0
+http://purl.org/np/RA8Z6vtMDkJwrfCwXTeCphiZcbtWcqTOVjOOqGEM5m8EY,Nanopubs covering interactions extracted from WikiPathways version 20171010,2017-12-18T09:35:12.002+01:00,http://purl.org/np/RAnhQsIzUWE0tsDKhnOF_lBtgfkGM8HqKdMkVls0cMJ1w,0
+http://purl.org/np/RAnlfiUUQO_Maf9bB5dJaMDv59Mp8v2K3jFJNoJyuAP9k,Nanopubs covering complexes extracted from WikiPathways version 20171010,2017-12-18T09:34:54.890+01:00,,0
+http://purl.org/np/RAl8UDvys8ZvCQZPiIKuH6vRws9iK79G-imHk2b4ks_BY,"Nanopublications extracted from WikiPathways, incremental dataset, 20170910",2017-12-18T09:32:54.624+01:00,,3
+http://purl.org/np/RA0_EvKhRAp4c-nmRDAVnJFHjN66QpxzTEyuCsqN2mTic,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20170910,2017-12-18T09:32:54.339+01:00,http://purl.org/np/RAsqCbvv8JN98don07sRmhGrEfnl-v81YQcQ9IOt_IRA8,0
+http://purl.org/np/RAKxH7Q3QEzfFNn0UTBZDXdS2zc4msoOHTKmHJ8uK0Es0,Nanopubs covering interactions extracted from WikiPathways version 20170910,2017-12-18T09:32:43.487+01:00,http://purl.org/np/RA5Fx1PfU3PoOBF0mti1_9PHQveboAjNyyUMgDVouHDiQ,0
+http://purl.org/np/RATpzeUn6EUnsbbcjDjykIzMp12L46pryNmKb2fBIeI-A,Nanopubs covering complexes extracted from WikiPathways version 20170910,2017-12-18T09:32:24.671+01:00,,0
+http://purl.org/np/RA0MYQBxAkmFTGzOUgmorKF-Z05E_n8snH1X3ZWNjmiEQ,"Nanopublications extracted from WikiPathways, incremental dataset, 20170810",2017-12-18T09:25:21.870+01:00,,3
+http://purl.org/np/RA6-Jweu-ZkTqtm1bSfncIJGZnxf_f3CNmeIE9aYa8CjE,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20170810,2017-12-18T09:25:21.600+01:00,http://purl.org/np/RAlPTqzc4-qUTp0ZlNOQl83Jc2wzS9zvjBWAgV3K3TTqc,0
+http://purl.org/np/RAGziCxT6VmT0P88oV1fojSV4uGTDN6GRMhWQtYivAm5Q,Nanopubs covering interactions extracted from WikiPathways version 20170810,2017-12-18T09:25:11.039+01:00,http://purl.org/np/RAghpGB5H9KIdENn9Bs6HXgbJ3v_LNEpR6Dyshfuy1V0Q,0
+http://purl.org/np/RArhG7E2zajatC9l5YfYJ97yrdvNn2gAJjyJV5G9X4xLA,Nanopubs covering complexes extracted from WikiPathways version 20170810,2017-12-18T09:24:52.194+01:00,,0
+http://purl.org/np/RATjW4Rl_8gGY_SdlIYaaRuLiKMBYKtHZ78MoiuHDzwg8,"Nanopublications extracted from WikiPathways, incremental dataset, 20170710",2017-12-18T09:19:18.559+01:00,,3
+http://purl.org/np/RAdJFUnFeXykbkij-_0qLhdh7iVnM8_46JQihRmGTeR6E,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20170710,2017-12-18T09:19:18.183+01:00,http://purl.org/np/RAkTj4DTxDHst_JNnlpiMbLKMVcf--X7toaPe_vMmErP4,0
+http://purl.org/np/RAmEI2cMCUyH1WTNguP_M7NvsZoHhtosnoE45jj3AwprA,Nanopubs covering interactions extracted from WikiPathways version 20170710,2017-12-18T09:19:10.522+01:00,http://purl.org/np/RAfcif1_aCT1mQsz5o3jp3X764nEZ9ojmxZ0lgp6Rfbaw,0
+http://purl.org/np/RAWI1WaLMfpctXfhFSh0rvYrhm_EQ82a1YALToHk3cXqM,Nanopubs covering complexes extracted from WikiPathways version 20170710,2017-12-18T09:18:56.142+01:00,,0
+http://purl.org/np/RA-OqlWv038E_6gEuB-7_Q0Z1vg1Riztes6wbO72K4T6Y,"Nanopublications extracted from WikiPathways, incremental dataset, 20170610",2017-12-18T09:09:59.343+01:00,,3
+http://purl.org/np/RA9h-sX7g9x_R2sLq8gpyIwgyYpijvp4YIuACWdt3UXbQ,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20170610,2017-12-18T09:09:59.035+01:00,http://purl.org/np/RAzfYrQDqxRvVhoxTDOO810y8U8MkCkRsKQzCAQ-121G8,0
+http://purl.org/np/RA-W56ZJP0U84frO_AnS_ZtyicjCf2IjNYK18bJ8FpZao,Nanopubs covering interactions extracted from WikiPathways version 20170610,2017-12-18T09:09:51.377+01:00,http://purl.org/np/RAMrnbsAfkUlV-U05rmLYE7iwi7ugJiskf1BgOnHb97WY,0
+http://purl.org/np/RAp9QBqvyPlvIoOpA_fCCVYHHlsInHIu2EmxOFQd7yRQg,Nanopubs covering complexes extracted from WikiPathways version 20170610,2017-12-18T09:09:36.861+01:00,,0
+http://rdf.disgenet.org/nanopub-server/RAfh_E6xmcdxDifBCA5ojx061d4pfK6GHCdbiNqRxNou8,Nanopubs extracted from DisGeNET v5.0.0.0,2017-10-17T15:09:16.887+02:00,http://rdf.disgenet.org/nanopub-server/RAlF7Q0LgTADg76oKMwoRY9yG10U8rGzVhRNhcbnCA-98,0
+http://purl.org/np/RAeyljAme-dwlpRSljxhq5Z2ga5SRRU3cs32Q1uBxtlXU,Data for meta-analysis of polycystic kidney disease expression profiles,2017-05-18T17:06:13.229+02:00,http://purl.org/np/RA0jqxwx7BSP8VoYZlC69ZDFvnyooRT16Xd47g40dNyro,0
+http://purl.org/np/RAxMyDRaM8RmKGNiEe7dQPRUTuz616iI-N2T-H3MPYmXk,,2017-05-11T16:46:10.564+02:00,http://purl.org/np/RAvSFAcS_ZmG55Chjd-0vqm3YvD9HnXFfY6Kcv6DLoxWg,0
+http://purl.org/np/RAcf4tihZLL_aK81hwThIrNxjOhks4sEloBStEgzyR1tI,,2017-05-11T13:00:46.462+02:00,http://purl.org/np/RAw3EAy19S_S5KBa5FUOGlvehVw9qYm-LXR9UmHfR5A60,0
+http://purl.org/np/RAAGy9p2PABQk-MlGDF30myYrhJeDiqDpL9D5L82Knm3E,,2017-05-11T12:03:26.258+02:00,http://purl.org/np/RAiqc1un9XlBh8_9HExsFa3dtIe2-bR28BzY-Ctf66stc,0
+http://purl.org/np/RAKz0OQ3Dq8dDWqF7SIY4TgYcZRX4d2TnmLUEbOwnaGmQ,"Nanopublications extracted from WikiPathways, incremental dataset, 20170510",2017-05-11T09:25:57.330+02:00,,3
+http://purl.org/np/RAbZxrCNajdfj4BMq6WAixbB1hsshC8_hcBlmoaZ3clUU,"Nanopublications extracted from WikiPathways, incremental dataset, 20170410",2017-05-11T09:25:57.054+02:00,,3
+http://purl.org/np/RAQoM3x3EezX6HL-FO48oLNv3xwHhSJjavnw2cDuMXDm8,"Nanopublications extracted from WikiPathways, incremental dataset, 20170310",2017-05-11T09:25:56.777+02:00,,3
+http://purl.org/np/RAyZp9GEJJixTX91NqTHvJX4sxuXVqfIR3s453GxdTiUY,"Nanopublications extracted from WikiPathways, incremental dataset, 20170210",2017-05-11T09:25:56.516+02:00,,3
+http://purl.org/np/RALSbi8hYBwO0LRScOREHn6wRecg0V87xdQ6fKlzZbh0s,"Nanopublications extracted from WikiPathways, incremental dataset, 20161210",2017-05-11T09:25:56.245+02:00,,3
+http://purl.org/np/RANmrwy03InvBPOTS31CDn-mMQBLS-CId_3ctqlgNs5b0,"Nanopublications extracted from WikiPathways, incremental dataset, 20161110",2017-05-11T09:25:55.984+02:00,,3
+http://purl.org/np/RAUv52zWreL97X4-s8ChdQ7yzma_TqXWiGL3oeISLqpQY,"Nanopublications extracted from WikiPathways, incremental dataset, 20161010",2017-05-11T09:25:55.721+02:00,,2
+http://purl.org/np/RA2XpJikTwBSreEKut0jtQ52BAXV2Bulei-YS-9ya6CWI,"Nanopublications extracted from WikiPathways, incremental dataset, 20160910",2017-05-11T09:25:55.453+02:00,,2
+http://purl.org/np/RAn72jhK8wPzZIbFLMNBEHk9s3JYRr2VEJkSji6vd151A,"Nanopublications extracted from WikiPathways, incremental dataset, 20160810",2017-05-11T09:25:55.179+02:00,,2
+http://purl.org/np/RAv1c3VBY0-0FSlVYsyXzqecgnd0V4zeeE83eDnRgwzKQ,"Nanopublications extracted from WikiPathways, incremental dataset, 20160710",2017-05-11T09:25:54.926+02:00,,2
+http://purl.org/np/RAkl7dPvlpTxXv3b5skIPdcseA0707M0Ab63FfBsFvEAc,"Nanopublications extracted from WikiPathways, incremental dataset, 20160610",2017-05-11T09:25:54.669+02:00,,2
+http://purl.org/np/RAFyJrsxjjkkT2ALN2PkgQTI4YrHVfYgygpxqmxMhSMqA,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20170510,2017-05-11T08:56:40.344+02:00,http://purl.org/np/RAGu5-kD_mTDHriQmH2kCknw5OabV5X0_vv6hhJY0wD6I,0
+http://purl.org/np/RA7H_R7RZRiJ14J3KTFD9IGzdnlWlp1kCJWlJWlTHseno,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20170410,2017-05-11T08:56:31.611+02:00,http://purl.org/np/RAM2CJgLLCrVGD46sXcZVPDt2qz7nsive_q1Xcw0qQcac,0
+http://purl.org/np/RAtKHwlPZQSYGG6pXxcvZ-lrRwRsiCxfpO48L5KEXn4jA,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20170310,2017-05-11T08:56:21.648+02:00,http://purl.org/np/RArUN48_B3GFdeT1fNpdBtU14tBuiqOOxavKoKYYZwu7o,0
+http://purl.org/np/RAwx3ICvG1xAzLye1c2TCYKAf3EilnyBP1DCcIqdSlZLg,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20170210,2017-05-11T08:56:13.291+02:00,http://purl.org/np/RAUjASL4W3tlWMaY5fq-vfHcpvzAztE07Mhspp9ToC9Es,0
+http://purl.org/np/RAlqhe3FmRcaPsQP9F6z6mlpc7QcS-87fbFYUmQm1zCVI,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20161210,2017-05-11T08:56:01.633+02:00,http://purl.org/np/RAvxgTw-5DGkQnmF44q-xuODbzAbNVn_A5FJnm-6oSU1E,0
+http://purl.org/np/RAieZ49uxdKeXrqyDXvYC_fTnribtq9_fvsZdodCTJ-tk,Nanopubs covering pathwayParticipation extracted from WikiPathways version 20161110,2017-05-11T08:55:52.886+02:00,http://purl.org/np/RAC4av2bBFsUOBvWhkI8bvZ8jzEVsd0Ukn1WHiwGxe9vQ,0
+http://purl.org/np/RApizOwYz0AfBo6y1TSmG_5hWCbXYCKVa2HspzrMEoTjk,Nanopubs covering interactions extracted from WikiPathways version 20170510,2017-05-11T08:55:47.497+02:00,http://purl.org/np/RAzcR82ioDitrRRiYzFh9CaAmktmQp27ECwgi2fJa3LP0,0
+http://purl.org/np/RAd2XME41qX2G0_L8iyKZ5HQfzXc9iPoR4JKqlfxjr67I,Nanopubs covering interactions extracted from WikiPathways version 20170410,2017-05-11T08:55:31.967+02:00,http://purl.org/np/RAz7hfNHIrdUG_mUIVz7QkICACIhDhbKCIG3VVhEwPuiE,0
+http://purl.org/np/RALEiGJ4h5ddSN92eL3AlewfhCxrdgeZ1YLhWjR_1wZFE,Nanopubs covering interactions extracted from WikiPathways version 20170310,2017-05-11T08:55:16.242+02:00,http://purl.org/np/RA8s8gjIbfDzfpaPKVYh-wspxoGuC3mAjBHkNum39DoA0,0
+http://purl.org/np/RAz6aGMobsbBYFWTp95n2RQOYZI8ZerInelEow0fsWGko,Nanopubs covering interactions extracted from WikiPathways version 20170210,2017-05-11T08:55:00.878+02:00,http://purl.org/np/RAYPKFXEUZ40HAwMkPVVWHymJFWC3vbc1w5KEI-0KugdU,0
+http://purl.org/np/RABXul9kAvYymPptZYM48cIBKVu5z17W4M2jtrn1a3GJQ,Nanopubs covering interactions extracted from WikiPathways version 20161210,2017-05-11T08:54:44.487+02:00,http://purl.org/np/RAlsp1-ReHs9oevoSSOActbXt1pu9Ky0a_B0nhGQShg68,0
+http://purl.org/np/RAYuzoANh721DxMebtf-AZMyW3vIxBvZh22if0Pc8hNo0,Nanopubs covering interactions extracted from WikiPathways version 20161110,2017-05-11T08:54:25.701+02:00,http://purl.org/np/RAyRvkwICHQgX4cHmhidT4yWAZYkfSmf-LWA0uB9-Hdok,0
+http://purl.org/np/RA8nws6QKUl6NCEqOSBnV3VNdGoXTjDi2rSgFcciQotW4,Nanopubs covering interactions extracted from WikiPathways version 20161010,2017-05-11T08:54:06.283+02:00,http://purl.org/np/RAjMa3QfdXAds-W-qzIwPmeFZeHRfb4tLB9W-pFctneE0,0
+http://purl.org/np/RA6Sbqku5f5D4rhHF9Sc-XVnCNDsk7CTrt24lnScnkHoA,Nanopubs covering interactions extracted from WikiPathways version 20160910,2017-05-11T08:53:51.435+02:00,http://purl.org/np/RAmxUQ6Vxb3xFIWxzRv9W2VAGd2an-LEwPa66daSYrqAQ,0
+http://purl.org/np/RAOHFPqgB7grnOPYfhXfcZEsY7dHHjfHQGzrL2Mp6aUtQ,Nanopubs covering interactions extracted from WikiPathways version 20160810,2017-05-11T08:53:35.247+02:00,http://purl.org/np/RAuzrmrIp6U5LBVE1dZY_4Rn_u28iKnBPTR7jcmRwuFuc,0
+http://purl.org/np/RAB4s_Mswg579pYGflUa1Gu_84hMmByKY8nn013npwBl0,Nanopubs covering interactions extracted from WikiPathways version 20160710,2017-05-11T08:53:16.290+02:00,http://purl.org/np/RAHuul1ERVOS0HuTD9AnLdo8SdgdEhhPDnzrGNh5YmEQk,0
+http://purl.org/np/RA3-lOrJmxp2tYS3fa4t5dD09NcmcVbPeCV-suchaJFRA,Nanopubs covering interactions extracted from WikiPathways version 20160610,2017-05-11T08:52:59.713+02:00,http://purl.org/np/RAXGxIZyyntiEKxVLuFEqbcp5StZ_-ctWD9QOPldbnH0I,0
+http://purl.org/np/RA1gsyHUYrQV3yOgRQ1XrHVWrrF41GQV1h6BePCfm-7eg,Nanopubs covering complexes extracted from WikiPathways version 20170510,2017-05-11T08:52:50.461+02:00,,0
+http://purl.org/np/RAND_wLT2kB7y5kU7XhM1_1v0FVuQsxlW2oHVUNODoYXM,Nanopubs covering complexes extracted from WikiPathways version 20170410,2017-05-11T08:52:49.639+02:00,,0
+http://purl.org/np/RACwicgJPGLo5kW8r-4OE4PWpdXj1MEkSrAYmM1tm_kRU,Nanopubs covering complexes extracted from WikiPathways version 20170310,2017-05-11T08:52:48.790+02:00,,0
+http://purl.org/np/RAN4lt0A-fANM4g1NuHni4J7xs1IlBaXYKVNGVoKBGOZo,Nanopubs covering complexes extracted from WikiPathways version 20170210,2017-05-11T08:52:47.960+02:00,,0
+http://purl.org/np/RA7ursz5NEhudOkQxBgcaV8sw97RLna9FO7isyrypjW-g,Nanopubs covering complexes extracted from WikiPathways version 20161210,2017-05-11T08:52:47.141+02:00,,0
+http://purl.org/np/RAp1UKyGTUgz-oxTJazoR7xUckYX_uwVd5JOoYVi60DKQ,Nanopubs covering complexes extracted from WikiPathways version 20161110,2017-05-11T08:52:46.327+02:00,,0
+http://purl.org/np/RAVvPN0SI9dkGEO_kU-AeqI-llRl1gv7lOagAXKNAm7a8,Nanopubs covering complexes extracted from WikiPathways version 20161010,2017-05-11T08:52:45.504+02:00,,0
+http://purl.org/np/RAdGzmpzlOKGrFt4a-es2ncleen1al4AbYuA8tyr7Uk5A,Nanopubs covering complexes extracted from WikiPathways version 20160910,2017-05-11T08:52:44.618+02:00,,0
+http://purl.org/np/RAPABbweeUUbR4pcP8uCxwxLsSi_IJTiYp5dhTVjaSMkY,Nanopubs covering complexes extracted from WikiPathways version 20160810,2017-05-11T08:52:43.784+02:00,,0
+http://purl.org/np/RAuBeU5Z_RW4snKOczFRB2mttOZ1ZzdUk8v4cUBkv6Tac,Nanopubs covering complexes extracted from WikiPathways version 20160710,2017-05-11T08:52:42.714+02:00,,0
+http://purl.org/np/RAiIF_QH1NK7I9AuGtPzCj_mP-jWv2beeZUTkEmk9PoW8,Nanopubs covering complexes extracted from WikiPathways version 20160610,2017-05-11T08:52:41.633+02:00,,0
+http://purl.org/np/RAu0PUrg-M8HxkOiYRXkTg7r9fgOIzFZNINj8q7ywNrdM,"Nanopubs extracted from DisGeNET v4.0.0.0, incremental dataset",2017-05-09T22:25:19.897+02:00,http://purl.org/np/RALtYfS4drICB1SYiZnh8wFhvNIZb7SUxf4Z4GMkfljG4,0
+http://purl.org/np/RAufQaKzv1pZlMhZo2eBuZtx9vuugLBJsrs4ZkvR53xzw,"Nanopubs extracted from DisGeNET v3.0.0.0, incremental dataset",2017-05-09T22:02:58.612+02:00,http://purl.org/np/RAhpFTBbMZOUYiESgBb2ibiSHRiBaCsJR8afspq27FwnM,0
+http://purl.org/np/RADYX-ia_TZYAw_eZD0-2oGGA7gnMxOnVj-Gh8wdJgAzI,"Nanopubs extracted from DisGeNET v2.1.0.0, incremental dataset",2017-05-09T20:30:20.925+02:00,http://purl.org/np/RAd_iWkhobWNzyirfudvgEsy6bupmqUkYXovBD8dwEFYQ,0
+http://purl.org/np/RA5rwWe7m-iWz8TF1kHIDCs9kLjwqIYeY3ZwLRQ5K0NZY,,2017-05-04T21:52:05.255+02:00,http://purl.org/np/RAD8JSQjX-pzfJ0r5HYXJy7ofh_m9HTv-6wM8WcC7y-9s,0
+http://np.inn.ac/RAV0-Gv-hPd05NWFQETchbhflTe5M44PolFlTkzwMWed4,My example dataset,2016-11-28T13:00:33.681+01:00,,0
+http://np.inn.ac/RANwPKrLBWo35dliB-75p4rnTt393KJK8LVZDiRN3mUZA,Human Protein Atlas data,2016-11-02T17:03:52.151+01:00,http://np.inn.ac/RALvOqM6vdZ5vIWJqCo9CTjK80YLR6-TvtTDXPJc0d7Sc,0
+http://np.inn.ac/RA0ImMGdhttIJxDJsPw7HiRLZiqpIIhRhzw0Y6r8LvmKg,,2016-11-02T14:08:25.688+01:00,,0
+http://np.inn.ac/RAtyhkWi1DEMnlombfdWvO4zqi2OgCoNz3MRy-YucWH2Q,,2016-11-02T14:07:28.420+01:00,,0
+http://np.inn.ac/RAK92fVJCMpJ3Ie3jMXiehtKnFNzvGd3MQnXOj55CgML8,,2016-11-02T14:05:36.160+01:00,http://np.inn.ac/RA4GdqzUt_1RhIFxEAhqCo_TKTgwe5iq-62aqo34BE6SA,0
+http://np.inn.ac/RAwepzy1rtZCwp_ABboUHReraz95kc4-EM-RP6V4RkKzc,,2016-11-02T14:02:28.680+01:00,http://np.inn.ac/RATYyo_g_aRvEQ0XutBdujelQBhSpFCgkQdX5uv8BBWw0,0
+http://np.inn.ac/RAwMqPOC0ZdZquSGih3aNsUuwGAGGtaCR3L4r5IRkK5x0,Rett Syndrome data from DisGeNET v4.0.0,2016-11-02T09:02:33.719+01:00,,0
+http://np.inn.ac/RAhoIw-XmyVv7DfMKyni67OHBFRqPvHAodr_iRgJxhtxY,Rett Syndrome data from DisGeNET v3.0.0.0,2016-11-01T14:41:45.332+01:00,http://np.inn.ac/RAi_mvwC-GXV0rxivi4E52uPSQMxIVdrHf2dOj5TnZHgE,0
+http://rdf.disgenet.org/nanopub-server/RAyRv500NbzzqmkouEraxBX-Op9Hg4Wps0HrQkNFyeNLQ,Nanopubs extracted from DisGeNET v4.0.0.0 (Nanopub Index),2016-05-13T17:56:25.699+02:00,http://rdf.disgenet.org/nanopub-server/RAFVifr59wugsBTNIHOtl5v4AKuJcWy2c9at4LPxc-8z0,0
+http://np.inn.ac/RAxM_p9YP3oZrQZQm_pDg_tVpUKg15UPy_VY90fXiF-NQ,Regional goverments of Czech Republic,2016-01-09T19:32:12.424+01:00,,0
+http://np.inn.ac/RAnAgWoQuJYRDoC02iZdnPP8CHyDNHTY_HKVCj5BqwdxM,,2016-01-09T16:37:47.566+01:00,,0
+http://rdf.disgenet.org/nanopub-server/RAVEKRW0m6Ly_PjmhcxCZMR5fYIlzzqjOWt1CgcwD_77c,Nanopubs extracted from DisGeNET v3.0.0.0,2015-11-15T21:19:51.473+01:00,http://rdf.disgenet.org/nanopub-server/RAEuKLHzdnxz1jxw0ZYoEbXjsH8T3KEciBIKl5G69fOmA,0
+http://np.inn.ac/RAFa_x4h0ng_NXtof35Ie9pQVsAY69Ab3ZQMir2NP8vGc,,2015-08-18T16:02:44.237+02:00,,0
+http://np.inn.ac/RA7SuQ0e661LJdKpt5EOS2DKykf1ht9LFmNaZtFSDMrXg,Linked Drug-Drug Interactions (LIDDI) dataset v1.01,2015-07-17T14:32:43.668+02:00,http://np.inn.ac/RAaVtjjDdU7foZT3i90sc8Du_vHS69f7_rhqqo3pUoVus,0
+http://np.inn.ac/RA6jrrPL2NxxFWlo6HFWas1ufp0OdZzS_XKwQDXpJg3CY,Data about CDKN2A from BEL2nanopub & neXtProt,2015-04-14T08:40:34.384+02:00,,0
+http://np.inn.ac/RAXsXUhY8iDbfDdY6sm64hRFPr7eAwYXRlSsqQAz1LE14,,2015-04-09T09:05:46.437+02:00,,0
+http://np.inn.ac/RAXFlG04YMi1A5su7oF6emA8mSp6HwyS3mFTVYreDeZRg,Nanopubs converted from neXtProt protein data (preliminary),2015-03-09T18:05:11.925-07:00,http://np.inn.ac/RAVDgfAMLDr7Tb-OZQMjxAu59Azr_PI3RN4R51Z9k-a5M,0
+http://np.inn.ac/RAXy332hxqHPKpmvPc-wqJA7kgWiWa-QA0DIpr29LIG0Q,Nanopubs extracted from DisGeNET v2.1.0.0,2015-03-04T16:49:45.795-08:00,http://np.inn.ac/RAUNxsi9pvcyvUNjUORieL3h0hNYOhX6vgUbp-jMC0UEM,0
+http://np.inn.ac/RAR5dwELYLKGSfrOclnWhjOj-2nGZN_8BW1JjxwFZINHw,Nanopubs converted from OpenBEL's Small and Large Corpus 20131211,2015-03-04T13:54:32.295-08:00,,2
+http://np.inn.ac/RACy0I4f_wr62Ol7BhnD5EkJU6Glf-wp0oPbDbyve7P6o,Nanopubs converted from OpenBEL's Small and Large Corpus 1.0,2015-03-04T13:54:31.490-08:00,,2
+http://np.inn.ac/RAY_lQruuagCYtAcKAPptkY7EpITwZeUilGHsWGm9ZWNI,AIDA Nanopubs extracted from GeneRIF,2015-03-04T10:39:03.941-08:00,http://np.inn.ac/RAuOJNR2pardA59l-d_eUnl7gRLr_vYfXb1vsGuaKwuis,0
+http://np.inn.ac/RAVEEQwjHbSgw0a7WIZhVkVHOnbfTGY7HNTSDGbrkPAAg,Nanopubs converted from OpenBEL's Small and Large Corpus 20131211,2015-03-02T14:15:26.864-08:00,,2
+http://np.inn.ac/RAKUB-H_7ATOS2wemqN2yXjGdOqqlYeOuAgy5WOgVQwpg,Nanopubs converted from OpenBEL's Small and Large Corpus 1.0,2015-03-02T14:15:26.520-08:00,,2
+http://np.inn.ac/RAdw0S5f06-Ed2uXNISU-wbXmqvQ9-6hxd4fqIslT38Wg,Nanopubs converted from OpenBEL's Large Corpus 20131211,2015-03-02T14:14:20.019-08:00,http://np.inn.ac/RAi1bTtCH2aHSzpPu1rZXOUlH_ZXJtu6QYzZ-k_0j_m10,0
+http://np.inn.ac/RAtF0ivB9B8cb-u3K_zElgmRBxiDwfym1yVBRY6VAyWvE,Nanopubs converted from OpenBEL's Small Corpus 20131211,2015-03-02T14:13:53.728-08:00,http://np.inn.ac/RA_E0B0JH7VtMMPuSOCFFfdYY8Wajkgn9OEju5umg5QiY,0
+http://np.inn.ac/RAsmhDKpyhTORhvWOZZL_cfSVZUqLYJFl_AqF_xPN34Qw,Nanopubs converted from OpenBEL's Large Corpus 1.0,2015-03-02T14:13:51.755-08:00,http://np.inn.ac/RAW3VazBU7A9WgGYoo6TWZOehW7ikWm-HUilpMZCgwPd4,0
+http://np.inn.ac/RAR7OfS-AqG9_XogObQZpWq6LaBsV95jeseJtscuwpwJo,Nanopubs converted from OpenBEL's Small Corpus 1.0,2015-03-02T14:13:34.011-08:00,http://np.inn.ac/RAruwibVARhoRMKh_uRo-WMnLhifmlYW8jT0qTzklcgSk,0

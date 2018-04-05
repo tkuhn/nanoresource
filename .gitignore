@@ -3,5 +3,7 @@
 /namespaces
 /npdump/combined-dump.trig.gz
 /npdump/dump
+/npdump/last-page.trig.gz
+/npdump/last-page.txt
 /data
 /server-logs

@@ -1,9 +1,6 @@
 *~
 /input/*/files
 /namespaces
-/npdump/combined-dump.trig.gz
-/npdump/dump
-/npdump/last-page.trig.gz
-/npdump/last-page.txt
+/npdump
 /data
 /server-logs

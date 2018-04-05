@@ -2,6 +2,8 @@
 
 set -e
 
+cd npdump
+
 for C in {1..10803}; do
   N=$(printf "%05d" $C)
   mongofiles --db nanopub-server --prefix packages_gzipped -l dump/$N.trig.gz get $C

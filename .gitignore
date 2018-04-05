@@ -1,7 +1,7 @@
 *~
 /input/*/files
 /namespaces
-/np-dump
+/npdump/combined-dump.trig.gz
+/npdump/dump
 /data
-/npdump
 /server-logs

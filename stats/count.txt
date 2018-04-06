@@ -1,0 +1,6 @@
+Nanopublications: 10803231
+Head triples: 58501805 (average: 5.4152136)
+Assertion triples: 61184484 (average: 5.6635356)
+Provenance triples: 122229003 (average: 11.314116)
+Pubinfo triples: 136738995 (average: 12.657231)
+Total triples: 378654287 (average: 35.050095)

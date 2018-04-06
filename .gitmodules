@@ -1,0 +1,6 @@
+[submodule "np-namespaces"]
+	path = sub/np-namespaces
+	url = https://github.com/albertmeronyo/np-namespaces
+[submodule "sub/elton-nanopubs"]
+	path = sub/elton-nanopubs
+	url = https://github.com/tkuhn/elton-nanopubs

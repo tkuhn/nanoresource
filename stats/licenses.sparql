@@ -1,5 +1,4 @@
 PREFIX npx: <http://purl.org/nanopub/x/>
-PREFIX c: <http://rdf.ebi.ac.uk/chembl/>
 PREFIX dc: <http://purl.org/dc/terms/>
 prefix np: <http://www.nanopub.org/nschema#>
 prefix dct: <http://purl.org/dc/terms/>
